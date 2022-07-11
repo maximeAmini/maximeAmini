@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maxime Amini
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning React Native 
-- 💞️ I’m looking to collaborate on ItConsDev Company
+- 💞️ I’m collaborate with ItConsDev Company
 - 📫 How to reach me "maximeamini1@gmail.com"
 
 <!---
